@@ -1,2 +1,2 @@
-subprocess
 PyQt5
+subprocess
